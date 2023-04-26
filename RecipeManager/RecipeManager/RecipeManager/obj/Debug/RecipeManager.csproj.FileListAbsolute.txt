@@ -1,0 +1,16 @@
+C:\Users\dell\source\repos\RecipeManager\RecipeManager\bin\Debug\RecipeManager.exe.config
+C:\Users\dell\source\repos\RecipeManager\RecipeManager\bin\Debug\RecipeManager.exe
+C:\Users\dell\source\repos\RecipeManager\RecipeManager\bin\Debug\RecipeManager.pdb
+C:\Users\dell\source\repos\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\source\repos\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\RecipeManager\RecipeManager\obj\Debug\RecipeManager.exe
+C:\Users\dell\source\repos\RecipeManager\RecipeManager\obj\Debug\RecipeManager.pdb
+C:\Users\lab_services_student\Documents\RecipeManager\RecipeManager\RecipeManager\bin\Debug\RecipeManager.exe.config
+C:\Users\lab_services_student\Documents\RecipeManager\RecipeManager\RecipeManager\bin\Debug\RecipeManager.exe
+C:\Users\lab_services_student\Documents\RecipeManager\RecipeManager\RecipeManager\bin\Debug\RecipeManager.pdb
+C:\Users\lab_services_student\Documents\RecipeManager\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Documents\RecipeManager\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab_services_student\Documents\RecipeManager\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Documents\RecipeManager\RecipeManager\RecipeManager\obj\Debug\RecipeManager.exe
+C:\Users\lab_services_student\Documents\RecipeManager\RecipeManager\RecipeManager\obj\Debug\RecipeManager.pdb
